@@ -1,0 +1,49 @@
+{
+    "name": "Aurora Token List",
+    "timestamp": "2021-09-08T15:55:12.671Z",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 2
+    },
+    "tags": {},
+    "logoURI": "https://pbs.twimg.com/profile_images/1390788387154628612/2etTUyhD_400x400.jpg",
+    "keywords": [
+      "uniswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Dai Stablecoin",
+        "address": "0xe3520349F477A5F6EB06107066048508498A291b",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      },
+      {
+        "name": "Uniswap",
+        "address": "0x1Bc741235EC0Ee86ad488fa49B69Bb6C823eE7b7",
+        "symbol": "UNI",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      }
+    ]
+  }

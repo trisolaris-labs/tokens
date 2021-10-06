@@ -1,10 +1,12 @@
-# Pangolin Token Assets
+# Aurora Token Assets
 
 This repository is a comprehensive collection of token assets for pooled tokens on Pangolin.
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
 This repo is intended to be similar to Trust Wallet's asset repository. Token logos are stored according to their Avalanche address under the `assets` directory. Tokens are stored in the format `<token-address>/logo.png`.
+
+Token lists are stored in `lists` repository, they are stored in the format `<chain-id>/list.json`.
 
 ## Add Yours
 Create a PR adding your token logo to the `assets` folder. Create a new folder with your token address (with properly formatted capitalization) and add a `logo.png` file inside the directory. The image must be no larger than 256px by 256px.
