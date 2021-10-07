@@ -44,6 +44,14 @@
         "decimals": 6,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "name": "Wrapped Near",
+        "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
+        "symbol": "wNEAR",
+        "decimals": 24,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/near/info/logo.png"
       }
     ]
   }
