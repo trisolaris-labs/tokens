@@ -12,6 +12,6 @@ Token lists are stored in `lists` repository, they are stored in the format `<ch
 Create a PR adding your token logo to the `assets` folder. Create a new folder with your token address (with properly formatted capitalization) and add a `logo.png` file inside the directory. The image must be no larger than 256px by 256px.
 
 ## Disclaimer
-Pangolin team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
+TriSolaris team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
 
-Pangolin team will reject projects that are deemed as scam or fraudulent after careful review. Pangolin team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+TriSolaris team will reject projects that are deemed as scam or fraudulent after careful review. TriSolaris team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
