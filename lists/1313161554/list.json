@@ -22,12 +22,12 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },
       {
-        "name": "Uniswap",
-        "address": "0x1Bc741235EC0Ee86ad488fa49B69Bb6C823eE7b7",
-        "symbol": "UNI",
-        "decimals": 18,
+        "name": "Wrapped Bitcoin",
+        "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+        "symbol": "WBTC",
+        "decimals": 8,
         "chainId": 1313161554,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
       },
       {
         "name": "USD Coin",
