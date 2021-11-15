@@ -52,6 +52,14 @@
         "decimals": 24,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/near/info/logo.png"
+      },
+      {
+        "name": "Trisolaris Token",
+        "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+        "symbol": "TRI",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
       }
     ]
   }
