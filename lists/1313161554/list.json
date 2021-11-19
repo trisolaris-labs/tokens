@@ -63,11 +63,11 @@
       },
       {
         "name": "Aurora",
-        "address": "0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
+        "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
         "symbol": "AURORA",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
       }
     ]
   }
