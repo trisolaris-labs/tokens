@@ -92,6 +92,30 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.png"
+      },
+      {
+        "name": "Avalanche",
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
+      },
+      {
+        "name": "Polygon",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
+      },
+      {
+        "name": "Binance Coin",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "symbol": "BNB",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
       }
     ]
   }
