@@ -116,6 +116,14 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+      },
+      {
+        "name": "Empyrean",
+        "address": "0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1",
+        "symbol": "EMPYR",
+        "decimals": 9,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
       }
     ]
   }
