@@ -127,11 +127,11 @@
       },
       {
         "name": "Flux Token",
-        "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+        "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
         "symbol": "FLX",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaa2a12ba3d9a2fd197af/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
       }
     ]
   }
