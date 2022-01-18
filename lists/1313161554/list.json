@@ -124,6 +124,14 @@
         "decimals": 9,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
+      },
+      {
+        "name": "Flux Token",
+        "address": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af",
+        "symbol": "FLX",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaa2a12ba3d9a2fd197af/logo.png"
       }
     ]
   }
