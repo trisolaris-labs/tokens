@@ -140,6 +140,22 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.png"
+      },
+      {
+        "name": "Meta Token",
+        "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
+        "symbol": "META",
+        "decimals": 24,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21ff01229e982d7c8b8691163b0a3cb8f357453/logo.png"
+      },
+      {
+        "name": "Staked NEAR",
+        "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+        "symbol": "stNEAR",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.png"
       }
     ]
   }
