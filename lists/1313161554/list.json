@@ -172,22 +172,6 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.png"
-      },
-      {
-        "name": "aUSDO",
-        "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
-        "symbol": "aUSDO",
-        "decimals": 8,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x293074789b247cab05357b08052468B5d7A23c5a/logo.png"
-      },
-      {
-        "name": "BlueBit Token",
-        "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
-        "symbol": "BBT",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.png"
       }
     ]
   }
