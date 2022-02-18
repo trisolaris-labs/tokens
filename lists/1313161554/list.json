@@ -156,6 +156,22 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.png"
+      },
+      {
+        "name": "Polar",
+        "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+        "symbol": "POLAR",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86/logo.png"
+      },
+      {
+        "name": "Polar Share",
+        "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+        "symbol": "SPOLAR",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.png"
       }
     ]
   }
