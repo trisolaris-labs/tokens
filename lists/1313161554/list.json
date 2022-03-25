@@ -1,177 +1,198 @@
 {
-    "name": "Aurora Token List",
-    "timestamp": "2021-09-08T15:55:12.671Z",
-    "version": {
-      "major": 1,
-      "minor": 1,
-      "patch": 2
+  "name": "Aurora Token List",
+  "timestamp": "2021-09-08T15:55:12.671Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://pbs.twimg.com/profile_images/1390788387154628612/2etTUyhD_400x400.jpg",
+  "keywords": ["uniswap", "default"],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xe3520349F477A5F6EB06107066048508498A291b",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
-    "tags": {},
-    "logoURI": "https://pbs.twimg.com/profile_images/1390788387154628612/2etTUyhD_400x400.jpg",
-    "keywords": [
-      "uniswap",
-      "default"
-    ],
-    "tokens": [
-      {
-        "name": "Dai Stablecoin",
-        "address": "0xe3520349F477A5F6EB06107066048508498A291b",
-        "symbol": "DAI",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-      },
-      {
-        "name": "Wrapped Bitcoin",
-        "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "chainId": 1313161554,
-        "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-      },
-      {
-        "name": "USD Coin",
-        "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-      },
-      {
-        "name": "Tether USD",
-        "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
-        "symbol": "USDT",
-        "decimals": 6,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-      },
-      {
-        "name": "Wrapped Near",
-        "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
-        "symbol": "wNEAR",
-        "decimals": 24,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/near/info/logo.png"
-      },
-      {
-        "name": "Trisolaris Token",
-        "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
-        "symbol": "TRI",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
-      },
-      {
-        "name": "Aurora",
-        "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-        "symbol": "AURORA",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
-      },
-      {
-        "name": "xTRI",
-        "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
-        "symbol": "xTRI",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.png"
-      },
-      {
-        "name": "LUNA",
-        "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
-        "symbol": "LUNA",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.png"
-      },
-      {
-        "name": "UST",
-        "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
-        "symbol": "UST",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.png"
-      },
-      {
-        "name": "Avalanche",
-        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-        "symbol": "AVAX",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
-      },
-      {
-        "name": "Polygon",
-        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-        "symbol": "MATIC",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
-      },
-      {
-        "name": "Binance Coin",
-        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-        "symbol": "BNB",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
-      },
-      {
-        "name": "Empyrean",
-        "address": "0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1",
-        "symbol": "EMPYR",
-        "decimals": 9,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
-      },
-      {
-        "name": "Flux Token",
-        "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
-        "symbol": "FLX",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
-      },
-      {
-        "name": "Solace Token",
-        "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
-        "symbol": "SOLACE",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.png"
-      },
-      {
-        "name": "Meta Token",
-        "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
-        "symbol": "META",
-        "decimals": 24,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21ff01229e982d7c8b8691163b0a3cb8f357453/logo.png"
-      },
-      {
-        "name": "Staked NEAR",
-        "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
-        "symbol": "stNEAR",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.png"
-      },
-      {
-        "name": "Polar",
-        "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
-        "symbol": "POLAR",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86/logo.png"
-      },
-      {
-        "name": "Polar Share",
-        "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
-        "symbol": "SPOLAR",
-        "decimals": 18,
-        "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.png"
-      }
-    ]
-  }
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1313161554,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped Near",
+      "address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
+      "symbol": "wNEAR",
+      "decimals": 24,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/near/info/logo.png"
+    },
+    {
+      "name": "Trisolaris Token",
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+      "symbol": "TRI",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
+    },
+    {
+      "name": "Aurora",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
+    },
+    {
+      "name": "xTRI",
+      "address": "0x802119e4e253D5C19aA06A5d567C5a41596D6803",
+      "symbol": "xTRI",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.png"
+    },
+    {
+      "name": "LUNA",
+      "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
+      "symbol": "LUNA",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.png"
+    },
+    {
+      "name": "UST",
+      "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.png"
+    },
+    {
+      "name": "Avalanche",
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
+    },
+    {
+      "name": "Polygon",
+      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
+    },
+    {
+      "name": "Binance Coin",
+      "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+    },
+    {
+      "name": "Empyrean",
+      "address": "0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1",
+      "symbol": "EMPYR",
+      "decimals": 9,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
+    },
+    {
+      "name": "Flux Token",
+      "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
+      "symbol": "FLX",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
+    },
+    {
+      "name": "Solace Token",
+      "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+      "symbol": "SOLACE",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.png"
+    },
+    {
+      "name": "Meta Token",
+      "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
+      "symbol": "META",
+      "decimals": 24,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xc21ff01229e982d7c8b8691163b0a3cb8f357453/logo.png"
+    },
+    {
+      "name": "Staked NEAR",
+      "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+      "symbol": "stNEAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.png"
+    },
+    {
+      "name": "Polar",
+      "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+      "symbol": "POLAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86/logo.png"
+    },
+    {
+      "name": "Polar Share",
+      "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+      "symbol": "SPOLAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.png"
+    },
+    {
+      "name": "Lunar",
+      "address": "0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c",
+      "symbol": "LUNAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.png"
+    },
+    {
+      "name": "aUSDO",
+      "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
+      "symbol": "aUSDO",
+      "decimals": 8,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x293074789b247cab05357b08052468B5d7A23c5a/logo.png"
+    },
+    {
+      "name": "BlueBit Token",
+      "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
+      "symbol": "BBT",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.png"
+    }
+  ]
+}
