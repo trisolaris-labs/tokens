@@ -658,6 +658,14 @@
       "chainId": 1313161554,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x7ca1c28663b76cfde424a9494555b94846205585/logo.svg"
+    },
+    {
+      "name": "Shitzu",
+      "address": "0x68e401B61eA53889505cc1366710f733A60C2d41",
+      "symbol": "SHITZU",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x68e401B61eA53889505cc1366710f733A60C2d41/logo.png"
     }
   ]
 }
