@@ -77,7 +77,7 @@
     {
       "name": "LUNA",
       "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
-      "symbol": "atLUNA",
+      "symbol": "LUNA",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.svg"
