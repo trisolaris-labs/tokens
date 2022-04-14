@@ -150,7 +150,7 @@
       "name": "Staked NEAR",
       "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
       "symbol": "stNEAR",
-      "decimals": 18,
+      "decimals": 24,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.svg"
     },
