@@ -75,17 +75,17 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.svg"
     },
     {
-      "name": "LUNA",
+      "name": "Wrapped LUNA",
       "address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
-      "symbol": "LUNA",
+      "symbol": "atLUNA",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.svg"
     },
     {
-      "name": "UST",
+      "name": "Wrapped UST",
       "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
-      "symbol": "UST",
+      "symbol": "atUST",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.svg"
@@ -139,7 +139,7 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.svg"
     },
     {
-      "name": "Meta Token",
+      "name": "Meta Pool",
       "address": "0xc21Ff01229e982d7c8b8691163B0A3Cb8F357453",
       "symbol": "META",
       "decimals": 24,
