@@ -9,6 +9,8 @@ Token lists are stored in `lists` repository, they are stored in the format `<ch
 Create a PR adding your token logo to the `assets` folder. Create a new folder with your token address (with properly formatted capitalization) and add a `logo.svg` file inside the directory.
 
 Add your token metadata to list.json with the following data:
+
+```
 {
 "name": Token name,
 "address": Token address,
@@ -17,6 +19,7 @@ Add your token metadata to list.json with the following data:
 "chainId": 1313161554,
 "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
 }
+```
 
 ## Disclaimer
 
