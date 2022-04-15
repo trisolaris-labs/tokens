@@ -182,6 +182,14 @@
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.png"
       },
       {
+        "name": "TRIPOLAR",
+        "address": "0x60527a2751A827ec0Adf861EfcAcbf111587d748",
+        "symbol": "TRIPOLAR",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.png"
+      },
+      {
         "name": "aUSDO",
         "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
         "symbol": "aUSDO",
