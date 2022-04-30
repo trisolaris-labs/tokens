@@ -697,6 +697,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.png"
+    },
+    {
+      "name": "vaporwave.finance",
+      "address": "0x2451dB68DeD81900C4F16ae1af597E9658689734",
+      "symbol": "VWAVE",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg"
     }
   ]
 }
