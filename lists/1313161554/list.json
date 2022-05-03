@@ -3,7 +3,7 @@
   "timestamp": "2022-05-02T12:34:12.671Z",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -363,12 +363,12 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xD5c997724e4b5756d08E6464C01AFbC5F6397236/logo.svg"
     },
     {
-      "name": "Frax",
+      "name": "Frax (Rainbow Bridge)",
       "address": "0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2",
-      "symbol": "FRAX",
+      "symbol": "rnbwFRAX",
       "decimals": 18,
       "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/b/replace-frax-add-wust/assets/0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2/logo.png"
     },
     {
       "name": "Frax Share",
@@ -705,6 +705,22 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg"
+    },
+    {
+      "name": "Frax",
+      "address": "0xe4b9e004389d91e4134a28f19bd833cba1d994b6",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/b/replace-frax-add-wust/assets/0xe4b9e004389d91e4134a28f19bd833cba1d994b6/logo.png"
+    },
+    {
+      "name": "UST (WormHole)",
+      "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
+      "symbol": "WUST",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/b/replace-frax-add-wust/assets/0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03/logo.svg"
     }
   ]
 }
