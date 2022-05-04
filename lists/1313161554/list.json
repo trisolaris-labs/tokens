@@ -728,7 +728,7 @@
       "symbol": "USN",
       "decimals": 18,
       "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5183e1b1091804bc2602586919e6880ac1cf2896/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5183e1b1091804bc2602586919e6880ac1cf2896/logo.svg"
     }
   ]
 }
