@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://www.trisolaris.io/static/media/planets.41c4868f.svg",
@@ -717,7 +717,7 @@
     {
       "name": "UST (WormHole)",
       "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
-      "symbol": "WUST",
+      "symbol": "UST",
       "decimals": 6,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03/logo.png"
