@@ -1,10 +1,10 @@
 {
   "name": "Trisolaris List",
-  "timestamp": "2022-05-04T15:20:12.671Z",
+  "timestamp": "2022-05-17T09:30:12.671Z",
   "version": {
     "major": 2,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://www.trisolaris.io/static/media/planets.41c4868f.svg",
@@ -177,14 +177,6 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.svg"
-    },
-    {
-      "name": "ETHERNAL",
-      "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
-      "symbol": "ETHERNAL",
-      "decimals": 18,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg"
     },
     {
       "name": "aUSDO",
@@ -737,6 +729,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5183e1B1091804BC2602586919E6880ac1cf2896/logo.svg"
+    },
+    {
+      "name": "ETHERNAL",
+      "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
+      "symbol": "ETHERNAL",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg"
     }
   ]
 }
