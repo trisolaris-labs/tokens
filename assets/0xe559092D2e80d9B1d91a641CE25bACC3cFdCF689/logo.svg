@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="496px" viewBox="0 0 494 496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="26.6668214%" y1="11.473941%" x2="133.4948%" y2="143.731618%" id="linearGradient-afrbxij5na-1">
+            <stop stop-color="#FF00D2" offset="0%"></stop>
+            <stop stop-color="#0500FF" offset="29.8295635%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="102.881663%" cy="81.4227078%" fx="102.881663%" fy="81.4227078%" r="298.019869%" gradientTransform="translate(1.028817,0.814227),scale(1.000000,0.995968),rotate(-135.027163),scale(1.000000,1.122109),translate(-1.028817,-0.814227)" id="radialGradient-afrbxij5na-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E7FFE7" stop-opacity="0.095354916" offset="6.92166%"></stop>
+            <stop stop-color="#00C5FF" offset="11.1224305%"></stop>
+            <stop stop-color="#00CEFF" offset="13.2565104%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="25.171244%"></stop>
+            <stop stop-color="#00FFD1" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="svg">
+            <g id="Gradients">
+                <ellipse id="Gradient-Linear-BG" fill="url(#linearGradient-afrbxij5na-1)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+                <ellipse id="Gradient-Radial-Rings-2" fill="url(#radialGradient-afrbxij5na-2)" cx="247" cy="248" rx="247" ry="248"></ellipse>
+            </g>
+            <g id="T-White" transform="translate(104.000000, 87.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" x="0" y="0" width="285" height="56" rx="28"></rect>
+                <rect id="Rectangle" x="109" y="16" width="68" height="327" rx="34"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
