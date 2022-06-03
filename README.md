@@ -8,7 +8,7 @@ Token lists are stored in `lists` repository, they are stored in the format `<ch
 
 Create a PR adding your token logo to the `assets` folder. Create a new folder with your token address (with properly formatted capitalization) and add a `logo.svg` file inside the directory.
 
-Add your token metadata to list.json with the following data:
+Add your token metadata to the end of list.json with the following data:
 
 ```
 {
