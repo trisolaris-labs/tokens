@@ -179,6 +179,14 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x25e801Eb75859Ba4052C4ac4233ceC0264eaDF8c/logo.svg"
     },
     {
+      "name": "ORBITAL",
+      "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
+      "symbol": "ORBITAL",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x3AC55eA8D2082fAbda674270cD2367dA96092889/logo.svg"
+    },
+    {
       "name": "aUSDO",
       "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
       "symbol": "aUSDO",
