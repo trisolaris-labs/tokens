@@ -745,6 +745,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg"
+    },
+    {
+      "name": "SmartPad token",
+      "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
+      "symbol": "PAD",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x34F291934b88c7870B7A17835B926B264fc13a81/logo.svg"
     }
   ]
 }
