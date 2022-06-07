@@ -1,9 +1,9 @@
 {
   "name": "Trisolaris List",
-  "timestamp": "2022-06-07T19:03:12.671Z",
+  "timestamp": "2022-06-07T19:09:12.671Z",
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -745,7 +745,7 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x17cbd9C274e90C537790C51b4015a65cD015497e/logo.svg"
-    }
+    },
     {
       "name": "BRRR",
       "address": "0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac",
