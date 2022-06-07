@@ -235,12 +235,12 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5C92A4A7f59A9484AFD79DbE251AD2380E589783/logo.svg"
     },
     {
-      "name": "SmartPad Token - Allbridge",
-      "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
+      "name": "SmartPad token",
+      "address": "0x34F291934b88c7870B7A17835B926B264fc13a81",
       "symbol": "PAD",
       "decimals": 18,
       "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x34F291934b88c7870B7A17835B926B264fc13a81/logo.svg"
     },
     {
       "name": "SOL - Allbridge",
