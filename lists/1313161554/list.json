@@ -1,9 +1,9 @@
 {
   "name": "Trisolaris List",
-  "timestamp": "2022-06-07T19:09:12.671Z",
+  "timestamp": "2022-06-10T22:20:12.671Z",
   "version": {
     "major": 4,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -753,6 +753,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac/logo.svg"
+    },
+    {
+      "name": "nUSD",
+      "address": "0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c",
+      "symbol": "nUSD",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c/logo.svg"
     }
   ]
 }
