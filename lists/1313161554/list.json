@@ -1,9 +1,9 @@
 {
   "name": "Trisolaris List",
-  "timestamp": "2022-06-10T22:20:12.671Z",
+  "timestamp": "2022-06-16T10:34:12.671Z",
   "version": {
     "major": 4,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -761,6 +761,15 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07379565cD8B0CaE7c60Dc78e7f601b34AF2A21c/logo.svg"
+    },
+    {
+      "name": "Synapse",
+      "address": "0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445",
+      "symbol": "SYN",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445/logo.png"
+ 
     }
   ]
 }
