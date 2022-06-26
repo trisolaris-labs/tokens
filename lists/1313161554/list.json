@@ -187,6 +187,14 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x3AC55eA8D2082fAbda674270cD2367dA96092889/logo.svg"
     },
     {
+      "name": "USP",
+      "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
+      "symbol": "USP",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg"
+    },
+    {
       "name": "aUSDO",
       "address": "0x293074789b247cab05357b08052468B5d7A23c5a",
       "symbol": "aUSDO",
@@ -769,7 +777,6 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445/logo.png"
- 
     }
   ]
 }
