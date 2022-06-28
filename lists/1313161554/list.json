@@ -769,7 +769,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xd80d8688b02B3FD3afb81cDb124F188BB5aD0445/logo.png"
- 
+    },
+    {
+      "name": "USP",
+      "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
+      "symbol": "USP",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg"
     }
   ]
 }
