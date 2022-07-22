@@ -786,5 +786,13 @@
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb14674c7264ec7d948b904aab2c0e0f906f6e762/logo.svg"
     },
+    {
+      "name": "BINARIS",
+      "address": "0xafE0d6ca6AAbB43CDA024895D203120831Ba0370",
+      "symbol": "BINARIS",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg"
+    }
   ]
 }
