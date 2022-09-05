@@ -795,14 +795,6 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg"
     }
     {
-      "name": "BINARIS",
-      "address": "0xafE0d6ca6AAbB43CDA024895D203120831Ba0370",
-      "symbol": "BINARIS",
-      "decimals": 18,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg"
-    } 
-    {
       "name": "auUSDT",
       "address": "0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54",
       "symbol": "auUSDT",
