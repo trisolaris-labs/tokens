@@ -794,5 +794,21 @@
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xafE0d6ca6AAbB43CDA024895D203120831Ba0370/logo.svg"
     }
+    {
+      "name": "auUSDT",
+      "address": "0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54",
+      "symbol": "auUSDT",
+      "decimals": 8,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xaD5A2437Ff55ed7A8Cad3b797b3eC7c5a19B1c54/logo.svg"
+    }  
+    {
+      "name": "auUSDC",
+      "address": "0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b",
+      "symbol": "auUSDC",
+      "decimals": 8,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg"
+    }  
   ]
 }
