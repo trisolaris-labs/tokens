@@ -809,6 +809,14 @@
       "decimals": 8,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg"
-    }  
+    },
+    {
+      "name": "NearX",
+      "address": "0xb39eeb9e168ef6c639f5e282fef1f6bc4dcae375",
+      "symbol": "NearX",
+      "decimals": 24,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb39eeb9e168ef6c639f5e282fef1f6bc4dcae375/logo.svg"
+    }
   ]
 }
