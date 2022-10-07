@@ -809,6 +809,30 @@
       "decimals": 8,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg"
-    }  
+    },
+    {
+      "name": "ORA",
+      "address": "0xCda8e67F3457Db7c8A62F7EaAdbaB74bfd29BeC8",
+      "symbol": "ORA",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xCda8e67F3457Db7c8A62F7EaAdbaB74bfd29BeC8/logo.svg"
+    },
+    {
+      "name": "OSHARE",
+      "address": "0xdcefBd8f92683541e428DD53Cd31356f38d69CaA",
+      "symbol": "OSHARE",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcefBd8f92683541e428DD53Cd31356f38d69CaA/logo.svg"
+    },
+    {
+      "name": "OBOND",
+      "address": "0x453E9619b9d5B7062D0d463750fD125a473c65C7",
+      "symbol": "OBOND",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x453E9619b9d5B7062D0d463750fD125a473c65C7/logo.svg"
+    }
   ]
 }
