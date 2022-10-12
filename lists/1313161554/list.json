@@ -812,7 +812,7 @@
     },
     {
       "name": "NearX",
-      "address": "0xb39eeb9e168ef6c639f5e282fef1f6bc4dcae375",
+      "address": "0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375",
       "symbol": "NearX",
       "decimals": 24,
       "chainId": 1313161554,
