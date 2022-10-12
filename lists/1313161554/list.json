@@ -836,7 +836,7 @@
     },
     {
       "name": "Stader",
-      "address": "0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84",
+      "address": "0x078E103d5F9629aC48B8563Fa2BFcD2f6d5Fde84",
       "symbol": "SD",
       "decimals": 18,
       "chainId": 1313161554,
