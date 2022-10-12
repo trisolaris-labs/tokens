@@ -809,6 +809,14 @@
       "decimals": 8,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4f0d864b1ABf4B701799a0b30b57A22dFEB5917b/logo.svg"
-    }  
+    },
+    {
+      "name": "Stader",
+      "address": "0x078E103d5F9629aC48B8563Fa2BFcD2f6d5Fde84",
+      "symbol": "SD",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x078e103d5f9629ac48b8563fa2bfcd2f6d5fde84/logo.png"
+    }
   ]
 }
