@@ -849,6 +849,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x078E103d5F9629aC48B8563Fa2BFcD2f6d5Fde84/logo.png"
+    },
+    {
+      "name": "axlUSDC",
+      "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3/logo.svg"
     }
   ]
 }
