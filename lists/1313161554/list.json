@@ -864,7 +864,7 @@
       "symbol": "NSTART",
       "decimals": 24,
       "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412/logo.svg"
     }
   ]
 }
