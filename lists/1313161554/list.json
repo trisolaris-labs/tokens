@@ -865,6 +865,14 @@
       "decimals": 24,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412/logo.svg"
+    },
+    {
+      "name": "NearStarter Index Pool",
+      "address": "0x11fffdcb623b4882daed70eb22c2bf51215178dc",
+      "symbol": "NEARIA",
+      "decimals": 24,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x11fffdcb623b4882daed70eb22c2bf51215178dc/logo.svg"
     }
   ]
 }
