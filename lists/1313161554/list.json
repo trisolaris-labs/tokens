@@ -865,6 +865,14 @@
       "decimals": 24,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412/logo.svg"
+    },
+    {
+      "name": "Staked Aurora Token",
+      "address": "0x8A7feB26ee5b202804AC11Dd5a739A945C5De11d",
+      "symbol": "stAUR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8A7feB26ee5b202804AC11Dd5a739A945C5De11d/logo.svg"
     }
   ]
 }
