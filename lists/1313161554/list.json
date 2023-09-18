@@ -29,7 +29,7 @@
     {
       "name": "USD Coin",
       "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "decimals": 6,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.svg"
@@ -37,7 +37,7 @@
     {
       "name": "Tether USD",
       "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
-      "symbol": "USDT",
+      "symbol": "USDT.e",
       "decimals": 6,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
