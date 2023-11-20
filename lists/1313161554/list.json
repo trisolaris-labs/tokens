@@ -203,9 +203,9 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D/logo.svg"
     },
     {
-      "name": "Trisolaris USDC/USDT",
+      "name": "Trisolaris USDC.e/USDT.e",
       "address": "0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9",
-      "symbol": "USD TLP",
+      "symbol": "USDC.e/USDT.e TLP",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9/logo.png"
@@ -885,7 +885,7 @@
     {
       "name": "Trisolaris USDC/USDC.e",
       "address": "0x19e91C9b155D2A8B47B74e9e100f28355AC13879",
-      "symbol": "USD TLP",
+      "symbol": "USDC/USDC.e TLP",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19e91C9b155D2A8B47B74e9e100f28355AC13879/logo.png"
