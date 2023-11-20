@@ -885,7 +885,7 @@
     {
       "name": "Trisolaris USDC/USDC.e",
       "address": "0x19e91C9b155D2A8B47B74e9e100f28355AC13879",
-      "symbol": "USDC/USDT.e TLP",
+      "symbol": "USDC/USDC.e TLP",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19e91C9b155D2A8B47B74e9e100f28355AC13879/logo.png"
