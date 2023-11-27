@@ -889,6 +889,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19e91C9b155D2A8B47B74e9e100f28355AC13879/logo.png"
+    },
+     {
+      "name": "Scamfari",
+      "address": "0xe3ff873c1e104118ec83310e39aafde17d18005d",
+      "symbol": "SCM",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3ff873c1e104118ec83310e39aafde17d18005d/logo.svg"
     }
   ]
 }
