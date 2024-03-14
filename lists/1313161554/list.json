@@ -883,12 +883,28 @@
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x368EBb46ACa6b8D0787C96B2b20bD3CC3F2c45F7/logo.svg"
     },
     {
+      "name": "Tether USD",
+      "address": "0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF/logo.svg"
+    },
+    {
       "name": "Trisolaris USDC/USDC.e",
       "address": "0x19e91C9b155D2A8B47B74e9e100f28355AC13879",
       "symbol": "USDC/USDC.e TLP",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19e91C9b155D2A8B47B74e9e100f28355AC13879/logo.png"
+    },
+    {
+      "name": "Trisolaris USDT/USDT.e",
+      "address": "0x261ed544822455101F5D2Baa66ED5C7A004A42C7",
+      "symbol": "USDT/USDT.e TLP",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x261ed544822455101F5D2Baa66ED5C7A004A42C7/logo.png"
     },
     {
       "name": "Scamfari",
