@@ -913,14 +913,6 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3ff873c1e104118ec83310e39aafde17d18005d/logo.svg"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 1313161554,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF/logo.svg"
     }
   ]
 }
