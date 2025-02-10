@@ -8,7 +8,11 @@
   },
   "tags": {},
   "logoURI": "https://www.trisolaris.io/static/media/planets.41c4868f.svg",
-  "keywords": ["aurora", "near", "trisolaris"],
+  "keywords": [
+    "aurora",
+    "near",
+    "trisolaris"
+  ],
   "tokens": [
     {
       "name": "Dai Stablecoin",
@@ -937,6 +941,54 @@
       "decimals": 18,
       "chainId": 1313161567,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xA22d6bD9789283b6AaA57808d5875B7B9f0fD813/logo.svg"
+    },
+    {
+      "name": "USDC",
+      "address": "0x368EBb46ACa6b8D0787C96B2b20bD3CC3F2c45F7",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.svg"
+    },
+    {
+      "name": "Ether",
+      "address": "0x5a524251df27A25AC6b9964a93E1c23AD692688D",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/ethlogo.png"
+    },
+    {
+      "name": "NEAR",
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR",
+      "decimals": 24,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/logo.svg"
+    },
+    {
+      "name": "Aurora",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA",
+      "decimals": 18,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF",
+      "symbol": "USDt",
+      "decimals": 6,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80Da25Da4D783E57d2FCdA0436873A193a4BEccF/logo.svg"
+    },
+    {
+      "name": "Tether USD (Rainbow Bridged)",
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "symbol": "USDT.e",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
     }
   ]
 }
