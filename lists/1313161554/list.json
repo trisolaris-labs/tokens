@@ -956,7 +956,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 1313161567,
-      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/ethlogo.png"
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/turbo/assets/ethlogo.svg"
     },
     {
       "name": "NEAR",
